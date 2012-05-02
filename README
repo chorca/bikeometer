@@ -1,1 +1,2 @@
-This is the readme file for the bikeometer project.
+The bikeometer project is a arduino-powered cyclometer using a standard ATMEGA328P and a 4D Systems uOLED-128-serial display. It incorporates an OLED serial command library and will have support for a rotary encoder with push for menu operation.
+It is still being actively developed, but all the math for speed and distance is available, if someone would like to incorporate it into their own project.
